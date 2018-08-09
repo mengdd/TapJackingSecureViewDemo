@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ddmeng.tapjackingsecureviewdemo.SecureViewOverlay xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/secure_view_overlay_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/secure_view_overlay_description" />
+
+    <Button
+        android:id="@+id/secure_view_overlay_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/secure_view_overlay_button1"
+        android:textColor="#383" />
+
+    <Button
+        android:id="@+id/secure_view_overlay_button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/secure_view_overlay_button2"
+        android:textColor="#383" />
+
+    <Button
+        android:id="@+id/secure_view_overlay_button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/secure_view_overlay_button3"
+        android:textColor="#383" />
+
+</com.ddmeng.tapjackingsecureviewdemo.SecureViewOverlay>
